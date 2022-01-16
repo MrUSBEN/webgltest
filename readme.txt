@@ -7,4 +7,7 @@ This is a repo to test webgl games online on github servers.
 12-01-22 =	Manual camera control build with high efficiency settings and gzip compression,
 		First web build had error - reuploaded with no spaces - failed again,
 		Final upload with "Decompression fallback" settting ON. 
+
+16-01-22 =	Free camera all axis movement,
+		Movement with WASD keys added.
 		
