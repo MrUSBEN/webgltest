@@ -10,4 +10,6 @@ This is a repo to test webgl games online on github servers.
 
 16-01-22 =	Free camera all axis movement,
 		Movement with WASD keys added.
+
+03-02-22 =	Character raw animated build.
 		
