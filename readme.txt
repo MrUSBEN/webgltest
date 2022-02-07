@@ -12,4 +12,6 @@ This is a repo to test webgl games online on github servers.
 		Movement with WASD keys added.
 
 03-02-22 =	Character raw animated build.
+
+07-02-22 =	Follower build with collision issues fixed and gravity.
 		
