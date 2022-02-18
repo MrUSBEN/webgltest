@@ -16,4 +16,7 @@ This is a repo to test webgl games online on github servers.
 03-02-22 =	Character raw animated build.
 
 07-02-22 =	Follower build with collision issues fixed and gravity.
+
+18-02-22 =	Added animations for each movement direction,
+		Gun system implemented and working.
 		
