@@ -19,4 +19,9 @@ This is a repo to test webgl games online on github servers.
 
 18-02-22 =	Added animations for each movement direction,
 		Gun system implemented and working.
+
+11-03-22 =	Updated play area and made it bigger,
+		Added Proper bullet models and faster firing system,
+		Added AI agents running randomly,
+		Added running animations on AI agents.
 		
