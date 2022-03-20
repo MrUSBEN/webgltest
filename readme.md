@@ -24,4 +24,9 @@ This is a repo to test webgl games online on github servers.
 		Added Proper bullet models and faster firing system,
 		Added AI agents running randomly,
 		Added running animations on AI agents.
+
+20-03-22 =	Added MENU system with PAUSE/RESUME,
+		Added Enemy spawner that spawns every 5 seconds,
+		Added Enemy Health bars,
+		Added crosshair targeting with accurate bullet trajectory.
 		
