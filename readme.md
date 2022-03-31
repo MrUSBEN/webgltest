@@ -29,4 +29,10 @@ This is a repo to test webgl games online on github servers.
 		Added Enemy spawner that spawns every 5 seconds,
 		Added Enemy Health bars,
 		Added crosshair targeting with accurate bullet trajectory.
+
+31-03-22 =	Added Sound effects for all characters,
+		Added basic follow and attack AI for enemy,
+		Bullet effect is trails not projectile anymore,
+		Enemies can shoot at player now causing damage,
+		Restart system implemented.
 		
