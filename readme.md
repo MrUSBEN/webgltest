@@ -35,4 +35,8 @@ This is a repo to test webgl games online on github servers.
 		Bullet effect is trails not projectile anymore,
 		Enemies can shoot at player now causing damage,
 		Restart system implemented.
+
+08-04-22 =	PROCEDURAL GENERATION SYSTEM implemented,
+		Kill all enemies to WIN or DIE to re-generate new level,
+		Basic gameplay loop complete.
 		
