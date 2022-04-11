@@ -39,4 +39,11 @@ This is a repo to test webgl games online on github servers.
 08-04-22 =	PROCEDURAL GENERATION SYSTEM implemented,
 		Kill all enemies to WIN or DIE to re-generate new level,
 		Basic gameplay loop complete.
+
+11-04-22 =	Fixed faulty WIN state bug,
+		Fixed overflowing enemy counter and properly resetting list,
+		Added Death animation to enemies,
+		Added RESTART button in pause menu,
+		Added audio volume controls in pause menu,
+		Created Random color generator for map generation.
 		
