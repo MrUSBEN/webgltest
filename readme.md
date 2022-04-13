@@ -46,4 +46,12 @@ This is a repo to test webgl games online on github servers.
 		Added RESTART button in pause menu,
 		Added audio volume controls in pause menu,
 		Created Random color generator for map generation.
+
+13-04-22 =	Finished game development,
+		Decided a name for it,
+		Added multiple background music clips,
+		Changed whole UI theme to look better,
+		Added credit and title in Pause menu,
+		Fixed little bugs and problems,
+		Should be smooth experience now.
 		
